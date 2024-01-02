@@ -1,5 +1,5 @@
 <div>
-  <img class="logo" src="public/logo.svg" alt="main logo">
+  <img class="logo" src="/logo.svg" alt="main logo">
 </div>
 
 <style>

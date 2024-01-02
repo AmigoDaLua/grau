@@ -3,7 +3,7 @@
 </script>
 
 <footer>
-        <img src="./public/logo_footer.png" alt="main logo">
+        <img src="/logo_footer.png" alt="main logo">
         <p>Feito em Svelte por <a href="https://github.com/AmigoDaLua" target="_blank" rel="noreferrer">Matheus Pantunes</a></p>
 </footer>
 

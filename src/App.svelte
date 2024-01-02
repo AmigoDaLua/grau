@@ -2,7 +2,7 @@
   import Background from './components/Background/Background.svelte';
   import BotaoGrau from './components/BotaoGrau/BotaoGrau.svelte';
   import Footer from './components/Footer/Footer.svelte';
-  import Header from './components/Logo/Logo.svelte';
+  import Logo from './components/Logo/Logo.svelte';
   import Moto from './components/Moto/Moto.svelte';
   import Text from './components/Text/Text.svelte';
 
@@ -11,7 +11,7 @@
 </script>
 
 <main>
-  <Header />  
+  <Logo />  
   <Background />
   <Moto dandoGrau={dandoGrau} />
   <BotaoGrau bind:dandoGrau />
