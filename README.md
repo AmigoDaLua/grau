@@ -11,14 +11,14 @@ Sempre ficávamos abismados com a ousadia e naturalidade de quem dava grau, mas 
   style="display: inline-block;  padding: 10px; width: 800px">
 
 ## Meio
-Nessa mesma época eu andava já estudando desenvolvimento web, então fui e lá e pensei: 
+Nessa mesma época eu andava já estudando desenvolvimento web, então fui lá e pensei: 
 <blockquote> 
   Vou juntar as duas coisas! vou fazer um aplicativo web com um bonequinho dando grau!
 </blockquote>
 A ideia original era desenvolver um aplicativo web em React, mas eu acabei esbarrando no Svelte, esse compilador mágico amigável de aprender e feliz de rodar, e não resisti à experiência.
 
 ## Fim
-No final das notas, juntei as duas coisas e posso dizer que fiquei feliz com o resultado. Aprendi muito sobre a sintaxe dos Svelte e comecei a arranhar a superfície do que ele tem a oferecer.
+No final das contas, juntei as duas coisas e posso dizer que fiquei feliz com o resultado. Aprendi muito sobre a sintaxe dos Svelte e comecei a arranhar a superfície do que ele tem a oferecer.
 Gostei muito da experiência e com certeza vou desenvolver outros projetos com ele!
 
 👉🏽 Acesse o app [clicando aqui](https://grau-lemon.vercel.app/) e divirta-se! 👈🏽
